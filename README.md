@@ -4,4 +4,4 @@
 
 - `smtpRecon.py` Test a list of user names using SMTP
 
-- `getIPs.py` Takes a file as input and outputs IPs found with a Counter
+- `findIPs.py` Takes a file as input and outputs IPs found with a Counter
